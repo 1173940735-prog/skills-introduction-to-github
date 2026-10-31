@@ -1,6 +1,6 @@
 <img width="1194" height="834" alt="IMG_8309" src="https://github.com/user-attachments/assets/45bcd50b-bb03-43a2-b3f6-e78699223d2c" />
 
-v1.0 已发布 🎉
+> v1.0 已发布 🎉
 
 # 我的 GitHub 学习记录
 
